@@ -9,8 +9,16 @@ const commands = [
         description: "Get information about the bot"
     },
     {
-        name: "prune",
-        description: "Manually prune messages"
+        name: "purge",
+        description: "Manually purge messages"
+    },
+    {
+        name: "setautopurge",
+        description: "Send this command in the channel you want to purge automatically"
+    },
+    {
+        name: "unsetautopurge",
+        description: "Send this command in the channel you want to remove from automatically pruning"
     }
 ]
 

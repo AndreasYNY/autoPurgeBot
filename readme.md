@@ -1,11 +1,11 @@
-# AutoPrune discord channel
+# AutoPurge discord channel
 
 made with extensibility in mind, tho it only have 1 purpose.
 
 ## Usage
 1. will provide a docker-compose file, if i remember to make one. (i won't test it either lol)
 2. invite the bot to your server of choice
-3. do `/autoPrune` on a channel and it will prune every 2 weeks (14 days). This bot is made for a specific server, might add custom range later.
+3. do `/autoPurge` on a channel and it will purge every 2 weeks (14 days). This bot is made for a specific server, might add custom range later.
 
 ## Powered by
 - Discord.js
